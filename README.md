@@ -6,7 +6,7 @@
 
 ## 👩‍💻 About Me
 
-**AI Developer / AI Engineer** with a passion for building intelligent systems that solve real-world problems. With over **20 years of experience in IT**, I specialize in:
+**AI & Data Platform Engineering Manager/ AI Engineer** with a passion for building intelligent systems that solve real-world problems. With over **20 years of experience in IT**, I specialize in:
 
 - 🤖 Building **AI agents** and integrating **Large Language Models (LLMs)**
 - 🏗️ Developing **enterprise-scale data platforms** for banking and financial services
