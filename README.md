@@ -6,11 +6,13 @@
 
 ## 👩‍💻 About Me
 
-**AI & Data Platform Engineering Manager/ AI Engineer** with a passion for building intelligent systems that solve real-world problems. With over **15 years of experience in IT**, I specialize in:
+
+**Senior IT Project and Data Platform Manager** with a passion for building intelligent systems that solve real-world problems. With over **20 years of experience in IT**, I specialize in:
 
 - 🤖 Building **AI agents** and integrating **Large Language Models (LLMs)**
 - 🏗️ Developing **enterprise-scale data platforms** for banking and financial services
 - 📊 Creating **analytical systems** that drive business insights
+- 🛠️ Migration from **monolithic systems to microservice architecture**
 - 🚀 Implementing **AI-driven solutions** that accelerate workflows by up to 40%
 
 Currently working at **Sberbank**, leading data platform development and AI solutions implementation.
