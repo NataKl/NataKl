@@ -82,8 +82,7 @@ Al-Farabi Kazakh National University
 ---
 
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NataKl&show_icons=true&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NataKl&show_icons=true&theme=radical&hide_border=true&custom_title=GitHub%20Stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NataKl&layout=compact&theme=radical&hide_border=true)
 
